@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="haiku-browser.xsl"?>
+<ku>
+    <meta>
+        <author>Basho Matsuo</author>
+    </meta>
+  <text>
+      <l>
+        <orig>
+            <k ji="京">きょう</k>にても</orig>
+        <trans lang="en">Even in Kyoto</trans>
+      </l>
+      <l>
+        <orig>
+            <k ji="京">きょう</k>なつかしや</orig>
+        <trans lang="en">To be longing for Kyoto:</trans>
+      </l>
+      <l>
+        <orig>
+            <k ji="時">ほとと</k>
+            <k ji="鳥">ぎす</k>
+         </orig>
+        <trans lang="en">A cuckoo cuckoos.</trans>
+      </l>
+  </text>
+  <commentary>
+    <remarks>
+      <p>Interestingly, hototogisu is a "time bird". This may give the verse an additional
+        (if laconic) poignancy.</p>
+    </remarks>
+      <vocab>
+         <term>なつかし</term>
+         <def>Nostalgia; missing someone or something.</def>
+      </vocab>
+      <theme>Summer</theme>
+      <theme>Hotogisu</theme>
+      <link href="http://carlsensei.com/classical/index.php/text/view/54"/>
+      <link href="https://www.youtube.com/watch?v=2F_KfMB5lOs">Audio recording on Youtube</link>
+  </commentary>
+   <dictionary>
+      <entry>
+         <head>京</head>
+         <sense resp="Charles Muller" source="Shogakukan">Metropolis, capital. [<xref idref="c9996-90fd">首都</xref>
+            <xref idref="c5e1d-90fd">帝都</xref>] </sense>
+         <sense resp="Charles Muller" source="Shogakukan">A (high, large) hill. [<xref idref="c4e18">丘</xref>] </sense>
+         <sense resp="Charles Muller" source="Shogakukan">Large, great, flourishing, tall. [<xref idref="c5927">大</xref>
+            <xref idref="c9ad8">高</xref>] </sense>
+         <sense resp="Charles Muller" source="Shogakukan">A storehouse; a granary. [<xref idref="c5009">倉</xref>] </sense>
+         <sense resp="Charles Muller" source="Shogakukan">A numerical power of ten. Anciently, ten times one <xref idref="c5146">兆</xref>. In modern times ten thousand times one <xref idref="c5146">兆</xref>.</sense>
+         <sense resp="Charles Muller" source="Shogakukan">To fear, be anxious, be apprehensive.</sense>
+         <sense resp="Charles Muller" source="Shogakukan">Variant of <xref idref="c4eb0">亰</xref>.</sense>
+         <pron lang="ja"
+               system="kk"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">ケイ</pron>
+         <pron lang="ja"
+               system="kk"
+               read="on"
+               type="go"
+               pos="1"
+               resp="Charles Muller">キョウ</pron>
+         <pron lang="ja"
+               system="hb"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">kei</pron>
+         <pron lang="ja"
+               system="hb"
+               read="on"
+               type="go"
+               pos="1"
+               resp="Charles Muller">kyō</pron>
+         <pron lang="ja" system="hb" resp="Charles Muller">kin</pron>
+         <pron lang="ja" system="hb" read="kun" resp="Charles Muller">miyako</pron>
+         <pron lang="ja" system="hb" read="kun" resp="Charles Muller">takai</pron>
+         <pron lang="ja" system="hb" read="kun" resp="Charles Muller">ookii</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">みやこ</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">きょう</pron>
+      </entry>
+      <entry>
+         <head>時</head>
+         <sense resp="Charles Muller">Time. A certain time or hour. A season, a period.</sense>
+         <sense resp="Charles Muller">To be on time, to be in season. An opportunity.</sense>
+         <sense resp="Charles Muller">At that time.</sense>
+         <sense resp="Charles Muller">All the time, always, frequently. From time to time.</sense>
+         <sense resp="Charles Muller">Modern Chinese simplified form is <xref idref="c65f6">时</xref>.</sense>
+         <sense resp="Charles Muller">Variant of <xref idref="c65f9">旹</xref>.</sense>
+         <pron lang="ja"
+               system="kk"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">ジ</pron>
+         <pron lang="ja"
+               system="hb"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">ji</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">とき</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">ときに</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">うかがう</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">これ</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">この</pron>
+      </entry>
+      <entry>
+         <head>鳥</head>
+         <sense resp="Charles Muller">Bird, birds.</sense>
+         <sense resp="Charles Muller">Variant of <xref idref="c5c4c">屌</xref>.</sense>
+         <sense resp="Charles Muller">Modern Chinese simplified form is <xref idref="c9e1f">鸟</xref>.</sense>
+         <pron lang="ja"
+               system="kk"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">チョウ</pron>
+         <pron lang="ja"
+               system="hb"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">chō</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">とり</pron>
+      </entry>
+   </dictionary>
+</ku>

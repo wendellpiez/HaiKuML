@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="haiku-browser.xsl"?>
+<ku>
+    <meta>
+        <author>Basho Matsuo</author>
+    </meta>
+  <text><!--荒海や  佐渡によこたふ 天河--><!-- うら・うみ・や・さど・に・よこたふ・あま・の・がわ -->
+      <l>
+         <orig>
+            <ji k="うら">荒</ji>
+            <ji k="うみ">海</ji>や</orig>
+         <trans lang="en">A desolate sea</trans>
+      </l>
+      <l>
+         <orig>
+            <ji k="さ">佐</ji>
+            <ji k="ど">渡</ji>によこたふ</orig>
+         <trans lang="en">Across to Sado Island:</trans>
+      </l>
+      <l>
+         <orig>
+            <ji k="あまの">天</ji>
+            <ji k="がわ">河</ji>
+         </orig>
+         <trans lang="en">A Milky Way sky</trans>
+      </l>
+  </text>
+  <commentary>
+      <remarks><p>Sado Island, in the Japan Sea to the west of Honshu, was known as the
+        destination of political exiles who were not expected to return.</p></remarks>
+      <vocab>
+        <term>よこたふ</term>
+        <def>A variant of よこたえる (to "lie down" or "lay")?</def>
+      </vocab>
+    <vocab>
+      <term>天河</term>
+      <def>Modern 天の川</def>
+    </vocab>
+      <theme>Summer</theme>
+    <link href="http://carlsensei.com/classical/index.php/text/view/127"/>
+  </commentary>
+   <dictionary>
+      <entry>
+         <head>荒</head>
+         <sense resp="Charles Muller">Wild, barren, uncultivated.</sense>
+         <sense resp="Charles Muller">Discarded, deserted. [<xref idref="c5ee2">廢</xref>
+            <xref idref="c68c4">棄</xref>] </sense>
+         <sense resp="Charles Muller">Empty, vacuous, vain. <xref idref="c865a">虚</xref>
+         </sense>
+         <sense resp="Charles Muller">Reckless; to go to excess.</sense>
+         <sense resp="Charles Muller">Dark, vague, obscure. [<xref idref="c660f">昏</xref>
+            <xref idref="c6697">暗</xref>] </sense>
+         <sense resp="Charles Muller">Great, extensive.</sense>
+         <pron lang="ja"
+               system="kk"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">コウ</pron>
+         <pron lang="ja"
+               system="hb"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">kō</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">あらい</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">あれる</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">あらす</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">すさむ</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">あれ</pron>
+      </entry>
+      <entry>
+         <head>海</head>
+         <sense resp="Charles Muller">Ocean, sea.</sense>
+         <sense resp="Charles Muller">Great, vast.</sense>
+         <sense resp="Charles Muller">Shoreline.</sense>
+         <pron lang="ja"
+               system="kk"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">カイ</pron>
+         <pron lang="ja"
+               system="hb"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">kai</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">うみ</pron>
+      </entry>
+      <entry>
+         <head>佐</head>
+         <sense resp="Charles Muller">To help, aid, assist.</sense>
+         <sense resp="Charles Muller">An assistant, a helper.</sense>
+         <pron lang="ja"
+               system="kk"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">サ</pron>
+         <pron lang="ja"
+               system="hb"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">sa</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">たすける</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">すけ</pron>
+      </entry>
+      <entry>
+         <head>渡</head>
+         <sense resp="Charles Muller">To cross over, to ford (a river).</sense>
+         <sense resp="Charles Muller">To hand over, give over.</sense>
+         <pron lang="ja"
+               system="kk"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">ト</pron>
+         <pron lang="ja"
+               system="hb"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">to</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">わたる</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">わたす</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">わたし</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">わたり</pron>
+      </entry>
+      <entry>
+         <head>天</head>
+         <sense resp="Charles Muller">Heaven, sky, air, firmament. God, nature, destiny; weather.</sense>
+         <sense resp="Jeffrey Kotyk">The concept of <foreign lang="zh">tian</foreign>, usually translated as 'heaven', was one idea that was taken under deep consideration by every school of classical Chinese philosophy. Approaches can be distinguished into two main type: one of theism, which attributed human characteristics and a sentient, divine nature to <foreign lang="zh">tian</foreign>, believing that it acted in resonance with human beings, dispensing rewards and punishments. This idea became particularly useful when the Han and later emperors needed to solidify their authority. The other major approach was nontheistic, tending to see <foreign lang="zh">tian</foreign> as nature itself and as such indifferent to human activities. These schools of thought reflect the intellectual and philosophical development that was occurring throughout the history of early Chinese civilization.
+The theist interpretation dominated throughout the Zhou period, but from the Spring and Autumn Period unto the rise of Han Dynasty (206 BCE), the nontheistic understanding gained traction in philosophical circles. Starting in the Han dynasty the theist perspective received endorsement from the state, which sought to legitimize its hegemony. A form of divination called <foreign lang="zh">chenwei</foreign> 讖緯 was based on the belief in the possibility to perceive the designs of <foreign lang="zh">tian</foreign> through observing patterns in natural phenomena. They took heaven to be a conscious entity with a will of its own. They further thought that the emperor possessed a divine nature and ability to ascertain and carry out the will of heaven. Wang Chong 王充, a rationalist philosopher of the Han Dynasty, absolutely rejected such thinking that had become commonplace among the intellectual elite of his age, insisting that heaven and earth were purely of material form and not possessed of any sort of conscious divinity. However, it seems that theistic approach was far more useful in establishing state authority and so that argument eventually won out and became the dominant perspective for successive dynasties until the modern day. 
+         </sense>
+         <sense resp="Charles Muller">Variant of <xref idref="c975d">靝</xref>.</sense>
+         <pron lang="ja"
+               system="kk"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">テン</pron>
+         <pron lang="ja"
+               system="hb"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">ten</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">あめ</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">あま</pron>
+      </entry>
+      <entry>
+         <head>河</head>
+         <sense resp="Charles Muller">A large river.</sense>
+         <sense resp="Charles Muller">The Yellow River.</sense>
+         <sense resp="Charles Muller">The province of Honan (<xref idref="c6cb3-5357">河南</xref>) .</sense>
+         <pron lang="ja"
+               system="kk"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">カ</pron>
+         <pron lang="ja"
+               system="hb"
+               read="on"
+               type="kan"
+               pos="1"
+               resp="Charles Muller">ka</pron>
+         <pron lang="ja" system="hi" read="kun" resp="Charles Muller">かわ</pron>
+      </entry>
+   </dictionary>
+</ku>

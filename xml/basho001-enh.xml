@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="haiku-browser.xsl"?>
+<ku>
+    <meta>
+        <author>Basho Matsuo</author>
+    </meta>
+  <text>
+      <l>
+        <orig>
+            <k ji="京">きょう</k>にても</orig>
+        <trans lang="en">Even in Kyoto</trans>
+      </l>
+      <l>
+        <orig>
+            <k ji="京">きょう</k>なつかしや</orig>
+        <trans lang="en">To be longing for Kyoto:</trans>
+      </l>
+      <l>
+        <orig>
+            <k ji="時">ほとと</k>
+            <k ji="鳥">ぎす</k>
+         </orig>
+        <trans lang="en">A cuckoo cuckoos.</trans>
+      </l>
+  </text>
+  <commentary>
+      <vocab>
+         <term>なつかし</term>
+         <def>Nostalgia; missing someone or something.</def>
+      </vocab>
+      <theme>Summer</theme>
+      <theme>Hotogisu</theme>
+      <link href="http://carlsensei.com/classical/index.php/text/view/54"/>
+      <link href="https://www.youtube.com/watch?v=2F_KfMB5lOs">Audio recording on Youtube</link>
+  </commentary>
+</ku>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="haiku-browser.xsl"?>
+<?xml-model href="HaiKuML.rnc" type="application/relax-ng-compact-syntax"?>
+<ku>
+  <meta>
+    <author>Basho Matsuo</author>
+  </meta>
+  <text>
+    <!-- のみ・しらみ・うま・の・しと・する・まくら・もと   -->
+    <l>
+      <orig><ji k="のみ">蚤</ji><ji k="しらみ">虱</ji></orig>
+      <trans lang="en">I arise early to lice</trans>
+    </l>
+    <l>
+      <orig><ji k="うま">馬</ji>の<ji k="しと">尿</ji>する</orig>
+      <trans lang="en">and fleas, when a horse pisses</trans>
+    </l>
+    <l>
+      <orig><ji k="まくら">枕</ji>もと</orig>
+      <trans lang="en">Next to my pillow</trans>
+    </l>
+  </text>
+  <commentary>
+    <remarks>
+      <p>The original is more compressed than the translation: that the poet is awakened
+        by the horse is only implicit.</p>
+    </remarks>
+    <theme>Summer</theme>
+    <link href="http://carlsensei.com/classical/index.php/text/view/129"/>
+    <link href="http://www.bentenkaku.jp/eng/highlights/hojin.html">Some background info on this famous poem.</link>
+    <lookup>蝨</lookup>
+    <lookup>马</lookup>
+  </commentary>
+  <dictionary>
+    <entry>
+      <head>蚤</head>
+      <sense resp="Charles Muller">The flea.</sense>
+      <sense resp="Charles Muller">Early; early in the morning; be early.</sense>
+      <pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">ソウ</pron>
+      <pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">sō</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">のみ</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">はやい</pron>
+    </entry>
+    <entry>
+      <head>虱</head>
+      <sense resp="Charles Muller">A simplified variant of 142–9 <xref idref="c8768">蝨</xref>
+        [8768].</sense>
+      <pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">シツ</pron>
+      <pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">shitsu</pron>
+    </entry>
+    <entry>
+      <head>馬</head>
+      <sense resp="Charles Muller">A horse.</sense>
+      <sense resp="Charles Muller">Variant of <xref idref="c9a6c">马</xref>.</sense>
+      <pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">バ</pron>
+      <pron lang="ja" system="kk" read="on" type="go" pos="1" resp="Charles Muller">マ</pron>
+      <pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">ba</pron>
+      <pron lang="ja" system="hb" read="on" type="go" pos="1" resp="Charles Muller">ma</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">うま</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">ま</pron>
+    </entry>
+    <entry>
+      <head>尿</head>
+      <sense resp="Charles Muller">Urine, piss. To urinate.</sense>
+      <pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">ニョウ</pron>
+      <pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">nyō</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">ゆばり</pron>
+    </entry>
+    <entry>
+      <head>枕</head>
+      <sense resp="Charles Muller">Pillow, headrest.</sense>
+      <sense resp="Charles Muller">To use as a pillow.</sense>
+      <pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">チン</pron>
+      <pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">chin</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">まくら</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">まくらとする</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">のぞむ</pron>
+    </entry>
+    <entry>
+      <head>蝨</head>
+      <sense resp="Charles Muller">Lice; a louse.</sense>
+      <sense resp="Charles Muller">Sesame.</sense>
+      <sense resp="Charles Muller">An obstacle.</sense>
+      <sense resp="Charles Muller">At random; irregularly.</sense>
+      <sense resp="Charles Muller">To be mixed together.</sense>
+      <sense resp="Charles Muller">Variant of <xref idref="c8671">虱</xref>.</sense>
+      <pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">シツ</pron>
+      <pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">shitsu</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">しらみ</pron>
+    </entry>
+    <entry>
+      <head>马</head>
+      <sense resp="Charles Muller">Modern Chinese simplified form of <xref idref="c99ac"
+        >馬</xref>.</sense>
+    </entry>
+  </dictionary>
+</ku>

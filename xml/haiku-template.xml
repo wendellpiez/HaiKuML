@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="haiku-browser.xsl"?>
+<ku>
+    <meta>
+        <author/>
+    </meta>
+  <text>
+    <l>
+      <orig/>
+      <trans lang="en"/>
+    </l>
+    <l>
+      <orig/>
+      <trans lang="en"/>
+    </l>
+    <l>
+      <orig/>
+      <trans lang="en"/>
+    </l>
+  </text>
+  <commentary>
+    <remarks/>
+    <vocab>
+      <term/>
+      <def/>
+    </vocab>
+    <theme/>
+    <link/>
+    <lookup/>
+  </commentary>
+</ku>

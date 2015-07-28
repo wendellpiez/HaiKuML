@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="haiku-browser.xsl"?>
+<ku>
+    <meta>
+      <author>Basho Matsuo</author>
+    </meta>
+  <text><!-- 夏草や 兵どもが 夢の跡 -->
+      <l>
+         <orig>夏草や</orig>
+         <trans lang="en"/>
+      </l>
+      <l>
+         <orig>兵どもが</orig>
+         <trans lang="en"/>
+      </l>
+      <l>
+         <orig>夢の跡</orig>
+         <trans lang="en"/>
+      </l>
+  </text>
+  <commentary>
+      <remarks/>
+      <vocab>
+         <term/>
+         <def/>
+      </vocab>
+      <theme/>
+      <link/>
+      <lookup>迹</lookup>
+  </commentary>
+   <dictionary>
+      <entry>
+         <head>夏</head>
+         <sense>Summer.</sense>
+         <sense>Great, spacious.</sense>
+         <sense>An ancient name for China.</sense>
+         <sense>A Chinese surname.</sense>
+         <sense>Variant of 夓.</sense>
+         <pron lang="ja">カ</pron>
+         <pron lang="ja">ゲ</pron>
+         <pron lang="ja">ka</pron>
+         <pron lang="ja">ge</pron>
+         <pron lang="ja">なつ</pron>
+      </entry>
+      <entry>
+         <head>草</head>
+         <sense>Grass, straw, herbs, weeds.</sense>
+         <sense>Careless, hasty.</sense>
+         <sense>Rough, coarse, mean.</sense>
+         <sense>To make a rough draft of.</sense>
+         <sense>Abstract script writing.</sense>
+         <sense>Variant of 艸.</sense>
+         <pron lang="ja">ソウ</pron>
+         <pron lang="ja">sō</pron>
+         <pron lang="ja">くさ</pron>
+      </entry>
+      <entry>
+         <head>兵</head>
+         <sense>Weapons, arms.</sense>
+         <sense>A soldier, warrior.</sense>
+         <sense>War, battle. The graph of the character is two hands with an ax.</sense>
+         <pron lang="ja">ヘイ</pron>
+         <pron lang="ja">hei</pron>
+         <pron lang="ja">ヒョウ</pron>
+         <pron lang="ja">hyō</pron>
+         <pron lang="ja">つわもの</pron>
+      </entry>
+      <entry>
+         <head>夢</head>
+         <sense>To dream </sense>
+         <sense>A dream; dream images.</sense>
+         <sense>Dark.</sense>
+         <sense>Variant of 梦.</sense>
+         <sense>Variant of 夣.</sense>
+         <pron lang="ja">ム</pron>
+         <pron lang="ja">mu</pron>
+         <pron lang="ja">ゆめ</pron>
+         <pron lang="ja">ゆめみる</pron>
+         <pron lang="ja">くらい</pron>
+      </entry>
+      <entry>
+         <head>跡</head>
+         <sense>Mark, print, trace, track, evidence.</sense>
+         <sense>Remains, effects.</sense>
+         <sense>To follow up, to search out. See 迹 for more extensive definitions.</sense>
+         <pron lang="ja">セキ</pron>
+         <pron lang="ja">シャク</pron>
+         <pron lang="ja">seki</pron>
+         <pron lang="ja">shaku</pron>
+         <pron lang="ja">あと</pron>
+         <pron lang="ja">ato</pron>
+         <pron lang="ja">atozukeru</pron>
+      </entry>
+      <entry>
+         <head>迹</head>
+         <sense>Footsteps, tracks, traces, impressions, marks [跡
+          相].</sense>
+         <sense>A precedent; an example, a pattern. [例] </sense>
+         <sense>A completed work. [業] </sense>
+         <sense>To follow up on; to trace out; to seek out in prior precedents.</sense>
+         <sense>One's behavior, actions. [行] </sense>
+         <sense>Transmigration resultant of karma. [輪廻] </sense>
+         <sense>The results, or after-effects of something, especially Buddhist teachings. [果] </sense>
+         <sense>The works of a certain Buddhist teacher.</sense>
+         <sense>Variant of 蹟.</sense>
+         <pron lang="ja">セキ</pron>
+         <pron lang="ja">シャク</pron>
+         <pron lang="ja">ジャク</pron>
+         <pron lang="ja">seki</pron>
+         <pron lang="ja">shaku</pron>
+         <pron lang="ja">jaku</pron>
+         <pron lang="ja">あと</pron>
+         <pron lang="ja">たずねる</pron>
+         <pron lang="ja">ato</pron>
+         <pron lang="ja">ashiato</pron>
+      </entry>
+   </dictionary>
+</ku>

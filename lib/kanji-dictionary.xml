@@ -1,0 +1,1429 @@
+<dealt>
+  <entry ID="c8349" added_by="Charles Muller" add_date="1995-07-15" update="" rad="艹" radval="04" radno="140" strokes="06" totstrokes="10">
+<hdwd>草</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">cǎo</pron>
+<pron lang="zh" system="py" pos="2" resp="Charles Muller">zào</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">ts'ao</pron>
+<pron lang="zh" system="wg" pos="2" resp="Charles Muller">ts'ao</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">초</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">cho</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">ch'o</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">ソウ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">sō</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">くさ</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">thảo</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">Grass, straw, herbs, weeds.</sense>
+<sense resp="Charles Muller">Careless, hasty.</sense>
+<sense resp="Charles Muller">Rough, coarse, mean.</sense>
+<sense resp="Charles Muller">To make a rough draft of.</sense>
+<sense resp="Charles Muller">Abstract script writing.</sense>
+<sense resp="Charles Muller">Variant of <xref idref="c8278">艸</xref>.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c8349-4e0a-4e4b-98a8-5fc5-5043">草上之風必偃</xref>
+<xref idref="c8349-4ecb">草介</xref>
+<xref idref="c8349-5177">草具</xref>
+<xref idref="c8349-539f">草原</xref>
+<xref idref="c8349-5730">草地</xref>
+<xref idref="c8349-5802">草堂</xref>
+<xref idref="c8349-5c68">草屨</xref>
+<xref idref="c8349-5eb5">草庵</xref>
+<xref idref="c8349-6599">草料</xref>
+<xref idref="c8349-6728">草木</xref>
+<xref idref="c8349-6a19">草標</xref>
+<xref idref="c8349-6b21">草次</xref>
+<xref idref="c8349-7387">草率</xref>
+<xref idref="c8349-7a3f">草稿</xref>
+<xref idref="c8349-82a5">草芥</xref>
+<xref idref="c8349-8305">草茅</xref>
+<xref idref="c8349-8305-4e4b-81e3">草茅之臣</xref>
+<xref idref="c8349-8349">草草</xref>
+<xref idref="c8349-8349-4e86-7d50">草草了結</xref>
+<xref idref="c8349-8350">草荐</xref>
+<xref idref="c8349-83bd">草莽</xref>
+<xref idref="c8349-83bd-4e4b-81e3">草莽之臣</xref>
+<xref idref="c8349-83c5">草菅</xref>
+<xref idref="c8349-83c5-4eba-547d">草菅人命</xref>
+<xref idref="c8349-840a">草萊</xref>
+<xref idref="c8349-85a6">草薦</xref>
+<xref idref="c8349-87f2">草蟲</xref>
+<xref idref="c8349-978b">草鞋</xref>
+<xref idref="c8349-98df">草食</xref>
+<xref idref="c8349-99d2">草駒</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>30945</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>1489.140</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>6739</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c8352" added_by="Charles Muller" add_date="1995-07-15" update="" rad="艹" radval="04" radno="140" strokes="06" totstrokes="10">
+<hdwd>荒</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">huāng</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">huang</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">황</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">hwang</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">hwang</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">コウ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">kō</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">あらい</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">あれる</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">あらす</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">すさむ</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">あれ</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">hoang</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">Wild, barren, uncultivated.</sense>
+<sense resp="Charles Muller">Discarded, deserted. [<xref idref="c5ee2">廢</xref>
+<xref idref="c68c4">棄</xref>] </sense>
+<sense resp="Charles Muller">Empty, vacuous, vain. <xref idref="c865a">虚</xref>
+</sense>
+<sense resp="Charles Muller">Reckless; to go to excess.</sense>
+<sense resp="Charles Muller">Dark, vague, obscure. [<xref idref="c660f">昏</xref>
+<xref idref="c6697">暗</xref>] </sense>
+<sense resp="Charles Muller">Great, extensive.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c8352-4ea1">荒亡</xref>
+<xref idref="c8352-5510">荒唐</xref>
+<xref idref="c8352-57df">荒域</xref>
+<xref idref="c8352-589f">荒墟</xref>
+<xref idref="c8352-5be5">荒寥</xref>
+<xref idref="c8352-5e74">荒年</xref>
+<xref idref="c8352-5ec3">荒廃</xref>
+<xref idref="c8352-5ee2">荒廢</xref>
+<xref idref="c8352-6b73">荒歳</xref>
+<xref idref="c8352-6dbc">荒涼</xref>
+<xref idref="c8352-6e4e">荒湎</xref>
+<xref idref="c8352-6e5b">荒湛</xref>
+<xref idref="c8352-6fa4">荒澤</xref>
+<xref idref="c8352-856a">荒蕪</xref>
+<xref idref="c8352-8a95">荒誕</xref>
+<xref idref="c8352-91ce">荒野</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>30953</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>1490.080</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>2271</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c6e21" added_by="Charles Muller" add_date="1995-07-15" update="" rad="氵" radval="03" radno="085" strokes="09" totstrokes="12">
+<hdwd>渡</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">dù</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">tu</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">도</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">do</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">to</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">ト</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">to</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">đò</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">わたる</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">わたす</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">わたし</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">わたり</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">To cross over, to ford (a river).</sense>
+<sense resp="Charles Muller">To hand over, give over.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c6e21-4e16">渡世</xref>
+<xref idref="c6e21-53e3">渡口</xref>
+<xref idref="c6e21-6c34">渡水</xref>
+<xref idref="c6e21-982d">渡頭</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Dai kanwa jiten</title>
+<page>17765</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+<page>1040.080</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+<page>6505</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c9a6c" added_by="Charles Muller" add_date="1995-07-15" update="" rad="马" radval="03" radno="187x" strokes="00" totstrokes="03">
+<hdwd>马</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">mǎ</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">ma</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+        <sense resp="Charles Muller">Modern Chinese simplified form of <xref idref="c99ac">馬</xref>.</sense>
+</sense_group>
+</sense_area>
+    <dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c6cb3" added_by="Charles Muller" add_date="1995-07-15" update="" rad="氵" radval="03" radno="085" strokes="05" totstrokes="08">
+<hdwd>河</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">hé</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">ho</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">하</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">ha</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">ha</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">カ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">ka</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">かわ</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">hà</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">A large river.</sense>
+<sense resp="Charles Muller">The Yellow River.</sense>
+<sense resp="Charles Muller">The province of Honan (<xref idref="c6cb3-5357">河南</xref>) .</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c6cb3-4e0a">河上</xref>
+<xref idref="c6cb3-4e0d-51fa-5716">河不出圖</xref>
+<xref idref="c6cb3-4f2f">河伯</xref>
+<xref idref="c6cb3-5167">河內</xref>
+<xref idref="c6cb3-5167">河內</xref>
+<xref idref="c6cb3-5167-56fd">河內国</xref>
+<xref idref="c6cb3-5167-570b">河內國</xref>
+<xref idref="c6cb3-5317">河北</xref>
+<xref idref="c6cb3-5357">河南</xref>
+<xref idref="c6cb3-5357-7701">河南省</xref>
+<xref idref="c6cb3-5357-9053">河南道</xref>
+<xref idref="c6cb3-539f">河原</xref>
+<xref idref="c6cb3-5957">河套</xref>
+<xref idref="c6cb3-5e73">河平</xref>
+<xref idref="c6cb3-5ee3">河廣</xref>
+<xref idref="c6cb3-6771">河東</xref>
+<xref idref="c6cb3-6c34">河水</xref>
+<xref idref="c6cb3-6c34-4e4b-963f">河水之阿</xref>
+<xref idref="c6cb3-6c99">河沙</xref>
+<xref idref="c6cb3-6d5c">河浜</xref>
+<xref idref="c6cb3-6d77">河海</xref>
+<xref idref="c6cb3-6df8">河淸</xref>
+<xref idref="c6cb3-6e05">河清</xref>
+<xref idref="c6cb3-6e90">河源</xref>
+<xref idref="c6cb3-6f22">河漢</xref>
+<xref idref="c6cb3-6ff1">河濱</xref>
+<xref idref="c6cb3-745e">河瑞</xref>
+<xref idref="c6cb3-7554">河畔</xref>
+<xref idref="c6cb3-795e">河神</xref>
+<xref idref="c6cb3-897f">河西</xref>
+<xref idref="c6cb3-897f-56de-5eca">河西回廊</xref>
+<xref idref="c6cb3-908a">河邊</xref>
+<xref idref="c6cb3-9b5a">河魚</xref>
+<xref idref="c6cb3-9b5a-8179-75be">河魚腹疾</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Dai kanwa jiten</title>
+<page>17245</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+<page>1006.080</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+<page>2111</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c4eac" added_by="Charles Muller" add_date="1995-07-15" update="2013-08-20" strokes="06" rad="亠" radval="02" radno="008" totstrokes="08">
+<hdwd>京</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">jīng</pron>
+<pron lang="zh" system="py" pos="2" resp="Charles Muller">yuán</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">ching</pron>
+<pron lang="zh" system="wg" pos="2" resp="Charles Muller">yüan</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">경</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">gyeong</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">kyŏng</pron>
+<pron lang="ja" priority="k1g1" resp="Charles Muller"/>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">ケイ</pron>
+<pron lang="ja" system="kk" read="on" type="go" pos="1" resp="Charles Muller">キョウ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">kei</pron>
+<pron lang="ja" system="hb" read="on" type="go" pos="1" resp="Charles Muller">kyō</pron>
+<pron lang="ja" system="hb" resp="Charles Muller">kin</pron>
+<pron lang="ja" system="hb" read="kun" resp="Charles Muller">miyako</pron>
+<pron lang="ja" system="hb" read="kun" resp="Charles Muller">takai</pron>
+<pron lang="ja" system="hb" read="kun" resp="Charles Muller">ookii</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">kinh</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">みやこ</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">きょう</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller" source="Shogakukan">Metropolis, capital. [<xref idref="c9996-90fd">首都</xref>
+<xref idref="c5e1d-90fd">帝都</xref>] </sense>
+<sense resp="Charles Muller" source="Shogakukan">A (high, large) hill. [<xref idref="c4e18">丘</xref>] </sense>
+<sense resp="Charles Muller" source="Shogakukan">Large, great, flourishing, tall. [<xref idref="c5927">大</xref>
+<xref idref="c9ad8">高</xref>] </sense>
+<sense resp="Charles Muller" source="Shogakukan">A storehouse; a granary. [<xref idref="c5009">倉</xref>] </sense>
+<sense resp="Charles Muller" source="Shogakukan">A numerical power of ten. Anciently, ten times one <xref idref="c5146">兆</xref>. In modern times ten thousand times one <xref idref="c5146">兆</xref>.</sense>
+<sense resp="Charles Muller" source="Shogakukan">To fear, be anxious, be apprehensive.</sense>
+<sense resp="Charles Muller" source="Shogakukan">Variant of <xref idref="c4eb0">亰</xref>.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c4eac-4eac">京京</xref>
+<xref idref="c4eac-5146">京兆</xref>
+<xref idref="c4eac-57ce">京城</xref>
+<xref idref="c4eac-5ba4">京室</xref>
+<xref idref="c4eac-5c39">京尹</xref>
+<xref idref="c4eac-5e2b">京師</xref>
+<xref idref="c4eac-6d1b">京洛</xref>
+<xref idref="c4eac-757f">京畿</xref>
+<xref idref="c4eac-757f-7063">京畿灣</xref>
+<xref idref="c4eac-9091">京邑</xref>
+<xref idref="c4eac-90fd">京都</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Dai kanwa jiten</title>
+<page>00299</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+<page>0187.110</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+<page>1127</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c6d77" added_by="Charles Muller" add_date="1995-07-15" update="" rad="氵" radval="03" radno="085" strokes="07" totstrokes="09">
+<hdwd>海</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">hǎi</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">hai</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">해</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">hae</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">hae</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">カイ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">kai</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">hải</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">うみ</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">Ocean, sea.</sense>
+<sense resp="Charles Muller">Great, vast.</sense>
+<sense resp="Charles Muller">Shoreline.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c6d77-4e2d">海中</xref>
+<xref idref="c6d77-5167">海內</xref>
+<xref idref="c6d77-5357-7701">海南省</xref>
+<xref idref="c6d77-5916">海外</xref>
+<xref idref="c6d77-5927-9b5a">海大魚</xref>
+<xref idref="c6d77-5cb3">海岳</xref>
+<xref idref="c6d77-5cf6">海島</xref>
+<xref idref="c6d77-5d4e">海嵎</xref>
+<xref idref="c6d77-5dbd">海嶽</xref>
+<xref idref="c6d77-5e95">海底</xref>
+<xref idref="c6d77-66f2">海曲</xref>
+<xref idref="c6d77-6708">海月</xref>
+<xref idref="c6d77-6771">海東</xref>
+<xref idref="c6d77-6771-8af8-56fd-7d00">海東諸国紀</xref>
+<xref idref="c6d77-6771-8af8-570b-7d00">海東諸國紀</xref>
+<xref idref="c6d77-68d5">海棕</xref>
+<xref idref="c6d77-6936">海椶</xref>
+<xref idref="c6d77-69ce-9332">海槎録</xref>
+<xref idref="c6d77-6d5c">海浜</xref>
+<xref idref="c6d77-6df5">海淵</xref>
+<xref idref="c6d77-6ff1">海濱</xref>
+<xref idref="c6d77-7981">海禁</xref>
+<xref idref="c6d77-904b">海運</xref>
+<xref idref="c6d77-90a6">海邦</xref>
+<xref idref="c6d77-91cf">海量</xref>
+<xref idref="c6d77-9580">海門</xref>
+<xref idref="c6d77-9632">海防</xref>
+<xref idref="c6d77-9632-8266">海防艦</xref>
+<xref idref="c6d77-963f">海阿</xref>
+<xref idref="c6d77-966c">海陬</xref>
+<xref idref="c6d77-9685">海隅</xref>
+<xref idref="c6d77-9f20">海鼠</xref>
+<xref idref="c6d77-9f21">海鼡</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Dai kanwa jiten</title>
+<page>17450</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+<page>1023.110</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+<page>2014</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c590f" added_by="Charles Muller" add_date="1995-07-15" update="" rad="夊" radval="03" radno="035" strokes="07" totstrokes="10">
+<hdwd>夏</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">xià</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">hsia</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">하</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">ha</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">ha</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">カ</pron>
+<pron lang="ja" system="kk" read="on" type="go" pos="1" resp="Charles Muller">ゲ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">ka</pron>
+<pron lang="ja" system="hb" read="on" type="go" pos="1" resp="Charles Muller">ge</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">なつ</pron>
+    </pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">Summer.</sense>
+<sense resp="Charles Muller">Great, spacious.</sense>
+<sense resp="Charles Muller">An ancient name for China.</sense>
+<sense resp="Charles Muller">A Chinese surname.</sense>
+<sense resp="Charles Muller">Variant of <xref idref="c5913">夓</xref>.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c590f-4e4b-6642">夏之時</xref>
+<xref idref="c590f-4faf-5b30">夏侯嬰</xref>
+<xref idref="c590f-5357">夏南</xref>
+<xref idref="c590f-540e">夏后</xref>
+<xref idref="c590f-540e-6c0f">夏后氏</xref>
+<xref idref="c590f-5929">夏天</xref>
+<xref idref="c590f-59eb">夏姫</xref>
+<xref idref="c590f-5b63">夏季</xref>
+<xref idref="c590f-5c4b">夏屋</xref>
+<xref idref="c590f-6578">夏數</xref>
+<xref idref="c590f-65e5">夏日</xref>
+<xref idref="c590f-6642">夏時</xref>
+<xref idref="c590f-66f8">夏書</xref>
+<xref idref="c590f-671d">夏朝</xref>
+<xref idref="c590f-6840">夏桀</xref>
+<xref idref="c590f-6c0f">夏氏</xref>
+<xref idref="c590f-7566">夏畦</xref>
+<xref idref="c590f-79ae">夏禮</xref>
+<xref idref="c590f-81f3">夏至</xref>
+<xref idref="c590f-82d7">夏苗</xref>
+<xref idref="c590f-87f2">夏蟲</xref>
+<xref idref="c590f-887e">夏衾</xref>
+<xref idref="c590f-8afa">夏諺</xref>
+<xref idref="c590f-9bc0">夏鯀</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Dai kanwa jiten</title>
+        <page>05720</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>0485.290</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>2521</page>
+      </dict>
+    </dictref>
+</entry>
+  <entry ID="c5922" added_by="Charles Muller" add_date="1995-07-15" update="" rad="夕" radval="03" radno="036" strokes="11" totstrokes="14">
+<hdwd>夢</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">mèng</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">meng</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">몽</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">mong</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">mong</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">ム</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">mu</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">mọng</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">ゆめ</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">ゆめみる</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">くらい</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">To dream </sense>
+<sense resp="Charles Muller">A dream; dream images.</sense>
+<sense resp="Charles Muller">Dark.</sense>
+<sense resp="Charles Muller">Variant of <xref idref="c68a6">梦</xref>.</sense>
+<sense resp="Charles Muller">Variant of <xref idref="c5923">夣</xref>.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c5922-5146">夢兆</xref>
+<xref idref="c5922-5883">夢境</xref>
+<xref idref="c5922-5922">夢夢</xref>
+<xref idref="c5922-5b85">夢宅</xref>
+<xref idref="c5922-5bd0">夢寐</xref>
+<xref idref="c5922-5e7b">夢幻</xref>
+<xref idref="c5922-5fb5">夢徵</xref>
+<xref idref="c5922-60f3">夢想</xref>
+<xref idref="c5922-88cf">夢裏</xref>
+<xref idref="c5922-88e1">夢裡</xref>
+<xref idref="c5922-898b">夢見</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>05801</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>0492.060</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>4433</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c5929" added_by="Charles Muller" add_date="1995-07-15" update="2012-04-11" rad="大" radval="03" radno="037" strokes="01" totstrokes="04">
+<hdwd>天</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">tiān</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">t'ien</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">천</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">cheon</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">ch'ŏn</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">テン</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">ten</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">あめ</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">あま</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">thiên</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">Heaven, sky, air, firmament. God, nature, destiny; weather.</sense>
+<sense resp="Jeffrey Kotyk">The concept of <foreign lang="zh">tian</foreign>, usually translated as 'heaven', was one idea that was taken under deep consideration by every school of classical Chinese philosophy. Approaches can be distinguished into two main type: one of theism, which attributed human characteristics and a sentient, divine nature to <foreign lang="zh">tian</foreign>, believing that it acted in resonance with human beings, dispensing rewards and punishments. This idea became particularly useful when the Han and later emperors needed to solidify their authority. The other major approach was nontheistic, tending to see <foreign lang="zh">tian</foreign> as nature itself and as such indifferent to human activities. These schools of thought reflect the intellectual and philosophical development that was occurring throughout the history of early Chinese civilization.
+<p rend="indent">The theist interpretation dominated throughout the Zhou period, but from the Spring and Autumn Period unto the rise of Han Dynasty (206 BCE), the nontheistic understanding gained traction in philosophical circles. Starting in the Han dynasty the theist perspective received endorsement from the state, which sought to legitimize its hegemony. A form of divination called <foreign lang="zh">chenwei</foreign> 讖緯 was based on the belief in the possibility to perceive the designs of <foreign lang="zh">tian</foreign> through observing patterns in natural phenomena. They took heaven to be a conscious entity with a will of its own. They further thought that the emperor possessed a divine nature and ability to ascertain and carry out the will of heaven. Wang Chong 王充, a rationalist philosopher of the Han Dynasty, absolutely rejected such thinking that had become commonplace among the intellectual elite of his age, insisting that heaven and earth were purely of material form and not possessed of any sort of conscious divinity. However, it seems that theistic approach was far more useful in establishing state authority and so that argument eventually won out and became the dominant perspective for successive dynasties until the modern day. </p>
+        </sense>
+<sense resp="Charles Muller">Variant of <xref idref="c975d">靝</xref>.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c5929-4e0a">天上</xref>
+<xref idref="c5929-4e0a-5929-4e0b">天上天下</xref>
+<xref idref="c5929-4e0b">天下</xref>
+<xref idref="c5929-4e0b-4e4b-9054-9053">天下之達道</xref>
+<xref idref="c5929-4e0b-570b-5bb6">天下國家</xref>
+<xref idref="c5929-4e0b-5927-4e82">天下大亂</xref>
+<xref idref="c5929-4e0b-5f0f">天下式</xref>
+<xref idref="c5929-4e0b-6709-4e09-5371">天下有三危</xref>
+<xref idref="c5929-4e0b-6709-9053">天下有道</xref>
+<xref idref="c5929-4e0b-6bcd">天下母</xref>
+<xref idref="c5929-4e0b-7121">天下無</xref>
+<xref idref="c5929-4e0b-7121-6575">天下無敵</xref>
+<xref idref="c5929-4e0b-7121-9053">天下無道</xref>
+<xref idref="c5929-4e0b-7b11">天下笑</xref>
+<xref idref="c5929-4e0b-827e-5b89">天下艾安</xref>
+<xref idref="c5929-4e0b-83ab-6575">天下莫敵</xref>
+<xref idref="c5929-4e0b-8c37">天下谷</xref>
+<xref idref="c5929-4e0b-8c3f">天下谿</xref>
+<xref idref="c5929-4e2d">天中</xref>
+<xref idref="c5929-4e4b-66c6-6578">天之曆數</xref>
+<xref idref="c5929-4e4b-795c">天之祜</xref>
+<xref idref="c5929-4e59">天乙</xref>
+<xref idref="c5929-4eba">天人</xref>
+<xref idref="c5929-4f11">天休</xref>
+<xref idref="c5929-4f4d">天位</xref>
+<xref idref="c5929-4f55-8a00-54c9">天何言哉</xref>
+<xref idref="c5929-4f5c">天作</xref>
+<xref idref="c5929-4f5c-4e4b-5408">天作之合</xref>
+<xref idref="c5929-4f5c-5b7d">天作孽</xref>
+<xref idref="c5929-4f7f">天使</xref>
+<xref idref="c5929-4fdd">天保</xref>
+<xref idref="c5929-5019">天候</xref>
+<xref idref="c5929-502a">天倪</xref>
+<xref idref="c5929-5211">天刑</xref>
+<xref idref="c5929-5247">天則</xref>
+<xref idref="c5929-529f">天功</xref>
+<xref idref="c5929-53ad">天厭</xref>
+<xref idref="c5929-540f">天吏</xref>
+<xref idref="c5929-547d">天命</xref>
+<xref idref="c5929-547d-4e4b-8b02-6027">天命之謂性</xref>
+<xref idref="c5929-548c">天和</xref>
+<xref idref="c5929-554f">天問</xref>
+<xref idref="c5929-5730">天地</xref>
+<xref idref="c5929-5730-4e0d-4ec1">天地不仁</xref>
+<xref idref="c5929-5730-4e4b-4e2d">天地之中</xref>
+<xref idref="c5929-5730-4e4b-4e2d">天地之中</xref>
+<xref idref="c5929-5730-4e4b-5e38">天地之常</xref>
+<xref idref="c5929-5730-4eba">天地人</xref>
+<xref idref="c5929-5730-76f8-5408">天地相合</xref>
+<xref idref="c5929-5730-842c-7269">天地萬物</xref>
+<xref idref="c5929-5802">天堂</xref>
+<xref idref="c5929-589c">天墜</xref>
+<xref idref="c5929-58e4-7121-7aae">天壤無窮</xref>
+<xref idref="c5929-592d">天夭</xref>
+<xref idref="c5929-5973">天女</xref>
+<xref idref="c5929-5b50">天子</xref>
+<xref idref="c5929-5c07">天將</xref>
+<xref idref="c5929-5c07">天將</xref>
+<xref idref="c5929-5de5">天工</xref>
+<xref idref="c5929-5e38">天常</xref>
+<xref idref="c5929-5e38-7acb-5c0a">天常立尊</xref>
+<xref idref="c5929-5e72">天干</xref>
+<xref idref="c5929-5e74">天年</xref>
+<xref idref="c5929-5e9c">天府</xref>
+<xref idref="c5929-5ead">天庭</xref>
+<xref idref="c5929-5f97">天得</xref>
+<xref idref="c5929-5fa1-4e2d-4e3b-795e">天御中主神</xref>
+<xref idref="c5929-5fb7">天德</xref>
+<xref idref="c5929-5fc3">天心</xref>
+<xref idref="c5929-6027">天性</xref>
+<xref idref="c5929-6176">天慶</xref>
+<xref idref="c5929-6212">天戒</xref>
+<xref idref="c5929-6587">天文</xref>
+<xref idref="c5929-6587-5b78">天文學</xref>
+<xref idref="c5929-65b9">天方</xref>
+<xref idref="c5929-65e5">天日</xref>
+<xref idref="c5929-6642">天時</xref>
+<xref idref="c5929-66c6">天曆</xref>
+<xref idref="c5929-671d">天朝</xref>
+<xref idref="c5929-67f1-6298">天柱折</xref>
+<xref idref="c5929-6a5f">天機</xref>
+<xref idref="c5929-6b65">天步</xref>
+<xref idref="c5929-6b65-8271-96e3">天步艱難</xref>
+<xref idref="c5929-6b66-5929-7687">天武天皇</xref>
+<xref idref="c5929-6b77">天歷</xref>
+<xref idref="c5929-6b83">天殃</xref>
+<xref idref="c5929-6bba">天殺</xref>
+<xref idref="c5929-6c11">天民</xref>
+<xref idref="c5929-6c23">天氣</xref>
+<xref idref="c5929-6c60">天池</xref>
+<xref idref="c5929-6cd5">天法</xref>
+<xref idref="c5929-6d77">天海</xref>
+<xref idref="c5929-7121-4e8c-65e5">天無二日</xref>
+<xref idref="c5929-7136">天然</xref>
+<xref idref="c5929-7235">天爵</xref>
+<xref idref="c5929-7235-5802-7b46-9918">天爵堂筆餘</xref>
+<xref idref="c5929-7236">天父</xref>
+<xref idref="c5929-7269">天物</xref>
+<xref idref="c5929-738b">天王</xref>
+<xref idref="c5929-7403">天球</xref>
+<xref idref="c5929-7406">天理</xref>
+<xref idref="c5929-751f">天生</xref>
+<xref idref="c5929-7562">天畢</xref>
+<xref idref="c5929-76e3">天監</xref>
+<xref idref="c5929-76e3-5728-4e0b">天監在下</xref>
+<xref idref="c5929-771e">天眞</xref>
+<xref idref="c5929-784f">天硏</xref>
+<xref idref="c5929-7945">天祅</xref>
+<xref idref="c5929-797f">天祿</xref>
+<xref idref="c5929-7afa">天竺</xref>
+<xref idref="c5929-7be4">天篤</xref>
+<xref idref="c5929-7c5f">天籟</xref>
+<xref idref="c5929-7dad">天維</xref>
+<xref idref="c5929-7db2">天網</xref>
+<xref idref="c5929-7e31-4e4b">天縱之</xref>
+<xref idref="c5929-8033">天耳</xref>
+<xref idref="c5929-805e">天聞</xref>
+<xref idref="c5929-8077">天職</xref>
+<xref idref="c5929-807d">天聽</xref>
+<xref idref="c5929-8207">天與</xref>
+<xref idref="c5929-8272">天色</xref>
+<xref idref="c5929-865b">天虛</xref>
+<xref idref="c5929-884c">天行</xref>
+<xref idref="c5929-884c-5065">天行健</xref>
+<xref idref="c5929-8862">天衢</xref>
+<xref idref="c5929-8996">天視</xref>
+<xref idref="c5929-89bd">天覽</xref>
+<xref idref="c5929-89e3">天解</xref>
+<xref idref="c5929-8a0e">天討</xref>
+<xref idref="c5929-8a85">天誅</xref>
+<xref idref="c5929-8cc7">天資</xref>
+<xref idref="c5929-8cdc">天賜</xref>
+<xref idref="c5929-8cea">天質</xref>
+<xref idref="c5929-9020-8349-6627">天造草昧</xref>
+<xref idref="c5929-904b">天運</xref>
+<xref idref="c5929-9053">天道</xref>
+<xref idref="c5929-9053-7121-89aa">天道無親</xref>
+<xref idref="c5929-9078">天選</xref>
+<xref idref="c5929-921e">天鈞</xref>
+<xref idref="c5929-932b">天錫</xref>
+<xref idref="c5929-9577">天長</xref>
+<xref idref="c5929-9577-5730-4e45">天長地久</xref>
+<xref idref="c5929-9580">天門</xref>
+<xref idref="c5929-963f">天阿</xref>
+<xref idref="c5929-964d-55aa-4e82">天降喪亂</xref>
+<xref idref="c5929-96e3">天難</xref>
+<xref idref="c5929-9802">天頂</xref>
+<xref idref="c5929-98df">天食</xref>
+<xref idref="c5929-990a">天養</xref>
+<xref idref="c5929-9ad4">天體</xref>
+<xref idref="c5929-9b3b">天鬻</xref>
+<xref idref="c5929-9b54">天魔</xref>
+<xref idref="c5929-9ea9-7f85">天麩羅</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>05833</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>0500.020</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>6361</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c8768" added_by="Charles Muller" add_date="1995-07-15" update="" rad="虫" radval="06" radno="142" strokes="09" totstrokes="15">
+<hdwd>蝨</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">shī</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">shih</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">슬</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">seul</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">sŭl</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">シツ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">shitsu</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">しらみ</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">Lice; a louse.</sense>
+<sense resp="Charles Muller">Sesame.</sense>
+<sense resp="Charles Muller">An obstacle.</sense>
+<sense resp="Charles Muller">At random; irregularly.</sense>
+<sense resp="Charles Muller">To be mixed together.</sense>
+<sense resp="Charles Muller">Variant of <xref idref="c8671">虱</xref>.</sense>
+</sense_group>
+</sense_area>
+    <dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>33303</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>5452</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c9ce5" added_by="Charles Muller" add_date="1995-07-15" update="" rad="鳥" radval="11" radno="196" strokes="00" totstrokes="11">
+<hdwd>鳥</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">niǎo</pron>
+<pron lang="zh" system="py" pos="2" resp="Charles Muller">diǎo</pron>
+<pron lang="zh" system="py" pos="3" resp="Charles Muller">dǎo</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">niao</pron>
+<pron lang="zh" system="wg" pos="2" resp="Charles Muller">tiao</pron>
+<pron lang="zh" system="wg" pos="3" resp="Charles Muller">tao</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">조</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">jo</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">cho</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">チョウ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">chō</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">とり</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">điểu</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+        <sense resp="Charles Muller">Bird, birds.</sense>
+<sense resp="Charles Muller">Variant of <xref idref="c5c4c">屌</xref>.</sense>
+<sense resp="Charles Muller">Modern Chinese simplified form is <xref idref="c9e1f">鸟</xref>.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c9ce5-5375">鳥卵</xref>
+<xref idref="c9ce5-5dba">鳥嶺</xref>
+<xref idref="c9ce5-6b21">鳥次</xref>
+<xref idref="c9ce5-7363">鳥獣</xref>
+<xref idref="c9ce5-7378">鳥獸</xref>
+<xref idref="c9ce5-7ae0">鳥章</xref>
+<xref idref="c9ce5-8403">鳥萃</xref>
+<xref idref="c9ce5-87f2">鳥蟲</xref>
+<xref idref="c9ce5-8de1">鳥跡</xref>
+<xref idref="c9ce5-96c6">鳥集</xref>
+<xref idref="c9ce5-98db">鳥飛</xref>
+<xref idref="c9ce5-9cf4">鳥鳴</xref>
+<xref idref="c9ce5-9f20">鳥鼠</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>46634</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>2012.250</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>4688</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c5c3f" added_by="Charles Muller" add_date="1995-07-15" update="" rad="尸" radval="03" radno="044" strokes="04" totstrokes="07">
+<hdwd>尿</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">niào</pron>
+<pron lang="zh" system="py" pos="2" resp="Charles Muller">suī</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">niao</pron>
+<pron lang="zh" system="wg" pos="2" resp="Charles Muller">sui</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">뇨</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">nyo</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">nyo</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">ニョウ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">nyō</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">ゆばり</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">Urine, piss. To urinate.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c5c3f-5e03">尿布</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Dai kanwa jiten</title>
+<page>07651</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+<page>0596.130</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+<page>4686</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c6795" added_by="Charles Muller" add_date="1995-07-15" update="" rad="木" radval="04" radno="075" strokes="04" totstrokes="08">
+<hdwd>枕</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">zhěn</pron>
+<pron lang="zh" system="py" pos="2" resp="Charles Muller">chén</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">chen</pron>
+<pron lang="zh" system="wg" pos="2" resp="Charles Muller">ch'en</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">침</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">chim</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">ch'im</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">チン</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">chin</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">chẳm</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">まくら</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">まくらとする</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">のぞむ</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">Pillow, headrest.</sense>
+<sense resp="Charles Muller">To use as a pillow.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c6795-85c9">枕藉</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>14546</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>0903.150</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>0308</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c8ff9" added_by="Charles Muller" add_date="1995-07-15" update="" rad="辶" radval="04" radno="162" strokes="06" totstrokes="10">
+<hdwd>迹</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">jī</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">chi</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">적</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">jeok</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">chŏk</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">セキ</pron>
+<pron lang="ja" system="kk" read="on" type="go" pos="1" resp="Charles Muller">シャク</pron>
+<pron lang="ja" system="kk" read="on" type="colloq" pos="1" resp="Charles Muller">ジャク</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">seki</pron>
+<pron lang="ja" system="hb" read="on" type="go" pos="1" resp="Charles Muller">shaku</pron>
+<pron lang="ja" system="hb" read="on" type="colloq" pos="1" resp="Charles Muller">jaku</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">あと</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">たずねる</pron>
+<pron lang="ja" system="hb" read="kun" resp="Charles Muller">ato</pron>
+<pron lang="ja" system="hb" read="kun" resp="Charles Muller">ashiato</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">tích</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+        <sense resp="Charles Muller" source="Shogakukan">Footsteps, tracks, traces, impressions, marks [<xref idref="c8de1">跡</xref>
+          <xref idref="c76f8">相</xref>].</sense>
+<sense resp="Charles Muller" source="Shogakukan">A precedent; an example, a pattern. [<xref idref="c4f8b">例</xref>] </sense>
+<sense resp="Charles Muller" source="Shogakukan">A completed work. [<xref idref="c696d">業</xref>] </sense>
+<sense resp="Charles Muller" source="Shogakukan">To follow up on; to trace out; to seek out in prior precedents.</sense>
+<sense resp="Charles Muller" source="Shogakukan">One's behavior, actions. [<xref idref="c884c">行</xref>] </sense>[Buddhism]
+ <sense resp="Charles Muller" source="Shogakukan">Transmigration resultant of karma. [<xref idref="c8f2a-5efb">輪廻</xref>] </sense>
+<sense resp="Charles Muller" source="Shogakukan">The results, or after-effects of something, especially Buddhist teachings. [<xref idref="c679c">果</xref>] </sense>
+<sense resp="Charles Muller" source="Shogakukan">The works of a certain Buddhist teacher.</sense>
+<sense resp="Charles Muller" source="Shogakukan">Variant of <xref idref="c8e5f">蹟</xref>.</sense>
+</sense_group>
+</sense_area>
+    <dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>38827</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>1739.180</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>0502</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c5175" added_by="Charles Muller" add_date="1995-07-15" update="2011-08-11" rad="八" radval="02" radno="012" strokes="05" totstrokes="07">
+<hdwd>兵</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">bīng</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">ping</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">병</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">byeong</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">pyŏng</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">ヘイ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">hei</pron>
+<pron lang="ja" system="kk" read="on" type="go" pos="1" resp="Charles Muller">ヒョウ</pron>
+<pron lang="ja" system="hb" read="on" type="go" pos="1" resp="Charles Muller">hyō</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">binh</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">つわもの</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+        <sense resp="Charles Muller">Weapons, arms.</sense>
+<sense resp="Charles Muller">A soldier, warrior.</sense>
+<sense resp="Charles Muller">War, battle. The graph of the character is two hands with an ax.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c5175-4e82">兵亂</xref>
+<xref idref="c5175-5203">兵刃</xref>
+<xref idref="c5175-5229">兵利</xref>
+<xref idref="c5175-529b">兵力</xref>
+<xref idref="c5175-58eb">兵士</xref>
+<xref idref="c5175-5c07">兵將</xref>
+<xref idref="c5175-5f37-5247-6ec5">兵強則滅</xref>
+<xref idref="c5175-6208">兵戈</xref>
+<xref idref="c5175-66f9">兵曹</xref>
+<xref idref="c5175-68b0">兵械</xref>
+<xref idref="c5175-6cd5">兵法</xref>
+<xref idref="c5175-706b">兵火</xref>
+<xref idref="c5175-71f9">兵燹</xref>
+<xref idref="c5175-7532">兵甲</xref>
+<xref idref="c5175-8eca">兵車</xref>
+<xref idref="c5175-9769">兵革</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>01462</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>5282</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c4f50" added_by="Charles Muller" add_date="1995-07-15" update="" rad="人" radval="02" radno="009" strokes="05" totstrokes="07">
+<hdwd>佐</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller">zuǒ</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">tso</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">좌</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">jwa</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">chwa</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">サ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">sa</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">tá</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">たすける</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">すけ</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">To help, aid, assist.</sense>
+<sense resp="Charles Muller">An assistant, a helper.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c4f50-52a9">佐助</xref>
+<xref idref="c4f50-6599">佐料</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Dai kanwa jiten</title>
+        <page>00506</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>0207.030</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>6775</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c6642" added_by="Charles Muller" add_date="1995-07-15" update="" rad="日" radval="04" radno="072" strokes="06" totstrokes="10">
+<hdwd>時</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">shí</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">shih</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">시</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">si</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">si</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">ジ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">ji</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">thì</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">とき</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">ときに</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">うかがう</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">これ</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">この</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">Time. A certain time or hour. A season, a period.</sense>
+<sense resp="Charles Muller">To be on time, to be in season. An opportunity.</sense>
+<sense resp="Charles Muller">At that time.</sense>
+<sense resp="Charles Muller">All the time, always, frequently. From time to time.</sense>
+<sense resp="Charles Muller">Modern Chinese simplified form is <xref idref="c65f6">时</xref>.</sense>
+<sense resp="Charles Muller">Variant of <xref idref="c65f9">旹</xref>.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c6642-4e16">時世</xref>
+<xref idref="c6642-4e2d">時中</xref>
+<xref idref="c6642-4e8b">時事</xref>
+<xref idref="c6642-4eba">時人</xref>
+<xref idref="c6642-4ee3">時代</xref>
+<xref idref="c6642-4ee3-601d-6f6e">時代思潮</xref>
+<xref idref="c6642-4fa1">時価</xref>
+<xref idref="c6642-4fd7">時俗</xref>
+<xref idref="c6642-5019">時候</xref>
+<xref idref="c6642-50f9">時價</xref>
+<xref idref="c6642-5176-4ea1">時其亡</xref>
+<xref idref="c6642-5468">時周</xref>
+<xref idref="c6642-547d">時命</xref>
+<xref idref="c6642-54c9">時哉</xref>
+<xref idref="c6642-591c">時夜</xref>
+<xref idref="c6642-5b50">時子</xref>
+<xref idref="c6642-5b97">時宗</xref>
+<xref idref="c6642-5b9c">時宜</xref>
+<xref idref="c6642-5c40">時局</xref>
+<xref idref="c6642-5c40-95dc-9375">時局關鍵</xref>
+<xref idref="c6642-614b">時態</xref>
+<xref idref="c6642-61cb">時懋</xref>
+<xref idref="c6642-65e5">時日</xref>
+<xref idref="c6642-6642">時時</xref>
+<xref idref="c6642-6666">時晦</xref>
+<xref idref="c6642-6703">時會</xref>
+<xref idref="c6642-671f">時期</xref>
+<xref idref="c6642-6c23">時氣</xref>
+<xref idref="c6642-7bc0">時節</xref>
+<xref idref="c6642-7fd2">時習</xref>
+<xref idref="c6642-8058">時聘</xref>
+<xref idref="c6642-884c">時行</xref>
+<xref idref="c6642-898b">時見</xref>
+<xref idref="c6642-8f2a">時輪</xref>
+<xref idref="c6642-8fb0">時辰</xref>
+<xref idref="c6642-904b">時運</xref>
+<xref idref="c6642-9081">時邁</xref>
+<xref idref="c6642-9593">時間</xref>
+<xref idref="c6642-96cd">時雍</xref>
+<xref idref="c6642-96e8">時雨</xref>
+<xref idref="c6642-98df">時食</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>13890</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>0859.150</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>5780</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c8de1" added_by="Charles Muller" add_date="1995-07-15" update="" rad="足" radval="07" radno="157" strokes="06" totstrokes="13">
+<hdwd>跡</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">jī</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">chi</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">적</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">jeok</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">chŏk</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">セキ</pron>
+<pron lang="ja" system="kk" read="on" type="go" pos="1" resp="Charles Muller">シャク</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">seki</pron>
+<pron lang="ja" system="hb" read="on" type="go" pos="1" resp="Charles Muller">shaku</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">あと</pron>
+<pron lang="ja" system="hb" read="kun" resp="Charles Muller">ato</pron>
+<pron lang="ja" system="hb" read="kun" resp="Charles Muller">atozukeru</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">tích</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+<sense resp="Charles Muller">Mark, print, trace, track, evidence.</sense>
+<sense resp="Charles Muller">Remains, effects.</sense>
+<sense resp="Charles Muller">To follow up, to search out. See <xref idref="c8ff9">迹</xref> for more extensive definitions.</sense>
+</sense_group>
+</sense_area>
+    <dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>37493</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>1696.070</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>0502</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c99ac" added_by="Charles Muller" add_date="1995-07-15" update="" rad="馬" radval="10" radno="187" strokes="00" totstrokes="10">
+<hdwd>馬</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">mǎ</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">ma</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">마</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">ma</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">ma</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">バ</pron>
+<pron lang="ja" system="kk" read="on" type="go" pos="1" resp="Charles Muller">マ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">ba</pron>
+<pron lang="ja" system="hb" read="on" type="go" pos="1" resp="Charles Muller">ma</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">mã</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">うま</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">ま</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+        <sense resp="Charles Muller">A horse.</sense>
+<sense resp="Charles Muller">Variant of <xref idref="c9a6c">马</xref>.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c99ac-4e0d-9032-4e5f">馬不進也</xref>
+<xref idref="c99ac-4e58">馬乘</xref>
+<xref idref="c99ac-4f86">馬來</xref>
+<xref idref="c99ac-53e3">馬口</xref>
+<xref idref="c99ac-5599">馬喙</xref>
+<xref idref="c99ac-5cf6">馬島</xref>
+<xref idref="c99ac-623f">馬房</xref>
+<xref idref="c99ac-6765">馬来</xref>
+<xref idref="c99ac-725b">馬牛</xref>
+<xref idref="c99ac-7956">馬祖</xref>
+<xref idref="c99ac-7bad">馬箭</xref>
+<xref idref="c99ac-8133">馬脳</xref>
+<xref idref="c99ac-8166">馬腦</xref>
+<xref idref="c99ac-8179">馬腹</xref>
+<xref idref="c99ac-8863">馬衣</xref>
+<xref idref="c99ac-9675">馬陵</xref>
+<xref idref="c99ac-982d">馬頭</xref>
+<xref idref="c99ac-9996">馬首</xref>
+<xref idref="c99ac-9cf4">馬鳴</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>44572</page>
+      </dict>
+<dict>
+        <title>Daejawon</title>
+        <page>1956.340</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>4310</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c8671" added_by="Charles Muller" add_date="1995-07-15" update="" rad="虫" radval="06" radno="142" strokes="02" totstrokes="08">
+<hdwd>虱</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller">shī</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">shih</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">슬</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">seul</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">sŭl</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">シツ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">shitsu</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+        <sense resp="Charles Muller">A simplified variant of 142–9 <xref idref="c8768">蝨</xref> [8768].</sense>
+</sense_group>
+</sense_area>
+    <dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>32812</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>5452</page>
+      </dict>
+</dictref>
+</entry>
+  <entry ID="c86a4" added_by="Charles Muller" add_date="1995-07-15" update="" rad="虫" radval="06" radno="142" strokes="04" totstrokes="10">
+<hdwd>蚤</hdwd>
+<pron_list>
+<pron lang="zh" system="py" pos="1" resp="Charles Muller" source="Hanyu">zǎo</pron>
+<pron lang="zh" system="wg" pos="1" resp="Charles Muller">ts'ao</pron>
+<pron lang="ko" system="hg" pos="1" resp="Charles Muller">조</pron>
+<pron lang="ko" system="mc" pos="1" resp="Charles Muller">jo</pron>
+<pron lang="ko" system="mr" pos="1" resp="Charles Muller">cho</pron>
+<pron lang="ja" system="kk" read="on" type="kan" pos="1" resp="Charles Muller">ソウ</pron>
+<pron lang="ja" system="hb" read="on" type="kan" pos="1" resp="Charles Muller">sō</pron>
+<pron lang="vi" system="qn" resp="việnhánnôm">tao</pron>
+<pron lang="ja" system="hi" read="kun" resp="Charles Muller">のみ</pron>
+      <pron lang="ja" system="hi" read="kun" resp="Charles Muller">はやい</pron>
+</pron_list>
+<sense_area>
+<sense_group resp="Charles Muller">
+        <sense resp="Charles Muller">The flea.</sense>
+<sense resp="Charles Muller">Early; early in the morning; be early.</sense>
+</sense_group>
+</sense_area>
+<compounds>
+<xref idref="c86a4-8768">蚤蝨</xref>
+<xref idref="c86a4-8d77">蚤起</xref>
+<xref idref="c86a4-98df">蚤食</xref>
+</compounds>
+<dictref>
+<dict>
+        <title>Hanyu dacidian</title>
+        <page>CD-Rom</page>
+      </dict>
+<dict>
+        <title>Gakken kanwa jiten</title>
+        <page>CD-Rom</page>
+      </dict>
+      <dict>
+        <title>Dai kanwa jiten</title>
+        <page>32893</page>
+      </dict>
+<dict>
+        <title>Mathews</title>
+        <page>6724</page>
+      </dict>
+</dictref>
+</entry>
+</dealt>

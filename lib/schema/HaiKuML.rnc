@@ -1,0 +1,75 @@
+grammar {
+
+start =
+  element ku {
+    element meta {
+      element author { text }
+    },
+    element text {
+      element l {
+        element orig {
+          (text
+           | element k {
+               attribute ji { xsd:NCName },
+               text
+             }
+           | element ji {
+               attribute k { xsd:NCName },
+               text
+             })+
+        },
+        element trans {
+          attribute lang { xsd:NCName },
+          text
+        }
+      }+
+    },
+    element commentary {
+      element remarks {
+        element p { mixed-content }+ }?,
+      (element vocab {
+         element term { text },
+         element def { mixed-content }
+       }*,
+       element theme { text }*)?,
+      element link {
+        attribute href { xsd:anyURI },
+        text
+      }*,
+      element lookup { text }*
+    }?,
+    element dictionary {
+      element entry {
+        element head { text },
+        element sense {
+          attribute resp { text },
+          mixed-content
+        }*,
+        element pron {
+          attribute lang { xsd:NCName },
+          attribute pos { xsd:integer }?,
+          attribute read { text },
+          attribute resp { text },
+          attribute system { xsd:NCName },
+          attribute type { xsd:NCName }?,
+          text
+        }*
+      }+
+    }?
+  }
+
+mixed-content = (
+  text |
+  element xref { attribute idref { text },
+               text
+             } |
+  element soCalled { text } |
+  element title { text } | 
+  element quote { text } | 
+  element hi { text } |
+  element term { text } | 
+  element foreign { attribute lang { xsd:NCName }?, text } |
+  element strong { text }
+  )*
+
+}

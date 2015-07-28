@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="haiku-browser.xsl"?>
+<ku>
+    <meta>
+        <author>Basho Matsuo</author>
+    </meta>
+  <text><!--荒海や  佐渡によこたふ 天河--><!-- うら・うみ・や・さど・に・よこたふ・あま・の・がわ -->
+    <l>
+      <orig><ji k="うら">荒</ji><ji k="うみ">海</ji>や</orig>
+      <trans lang="en"/>
+    </l>
+    <l>
+      <orig><ji k="さ">佐</ji><ji k="ど">渡</ji>によこたふ</orig>
+      <trans lang="en"/>
+    </l>
+    <l>
+      <orig><ji k="あまの">天</ji><ji k="がわ">河</ji></orig>
+      <trans lang="en"/>
+    </l>
+  </text>
+  <commentary>
+    <remarks/>
+    <vocab>
+      <term/>
+      <def/>
+    </vocab>
+    <theme/>
+    <link/>
+    <lookup/>
+  </commentary>
+</ku>

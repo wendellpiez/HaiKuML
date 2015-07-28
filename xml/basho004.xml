@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="haiku-browser.xsl"?>
+<ku>
+    <meta>
+      <author>Basho Matsuo</author>
+    </meta>
+  <text><!-- 夏草や 兵どもが 夢の跡 -->
+    <l>
+      <orig>夏草や</orig>
+      <trans lang="en"/>
+    </l>
+    <l>
+      <orig>兵どもが</orig>
+      <trans lang="en"/>
+    </l>
+    <l>
+      <orig>夢の跡</orig>
+      <trans lang="en"/>
+    </l>
+  </text>
+  <commentary>
+    <remarks/>
+    <vocab>
+      <term/>
+      <def/>
+    </vocab>
+    <theme/>
+    <link/>
+    <lookup>迹</lookup>
+  </commentary>
+</ku>

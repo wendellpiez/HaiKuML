@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="haiku-browser.xsl"?>
+<ku>
+    <meta>
+        <author>Basho Matsuo</author>
+    </meta>
+  <text>
+    <l>
+      <orig>蚤虱</orig>
+      <trans lang="en">I arise early to lice</trans>
+    </l>
+    <l>
+      <orig>馬の尿する</orig>
+      <trans lang="en">and fleas, when a horse pisses</trans>
+    </l>
+    <l>
+      <orig>枕もと</orig>
+      <trans lang="en">Next to my pillow</trans>
+    </l>
+  </text>
+  <commentary>
+    <link href="http://carlsensei.com/classical/index.php/text/view/129"/>
+    <lookup>蝨</lookup>
+    <lookup>马</lookup>
+  </commentary>
+</ku>
