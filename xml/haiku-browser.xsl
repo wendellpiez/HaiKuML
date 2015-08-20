@@ -188,7 +188,7 @@
   <xsl:template match="dictionary">
     <div class="dictionary">
       <h3>Kanji dictionary</h3>
-      <p>Consulting CJKV-English</p>
+      <p>Consulting <a href="http://www.buddhism-dict.net/dealt/">the Digital Dictionary of Buddhism</a></p>
     </div>
     <table class="dictionary">
       <xsl:apply-templates/>
@@ -242,7 +242,7 @@
     <div class="block credits">
       <p>HaiKuML is developed as an XML/XSLT demonstration (and a test of technology support for
         Japanese) by <a href="http://www.wendellpiez.com">Wendell Piez</a> (2015).</p>
-      <p>Access to the CJKV-English kanji dictionary was kindly provided by A. Charles Muller.
+      <p>Access to the <a href="http://www.buddhism-dict.net/dealt/">Digital Dictionary of Buddhism</a> was kindly provided by A. Charles Muller.
         Unless otherwise attributed, kanji dictionary senses have been provided by him.</p>
     </div>
   </xsl:template>

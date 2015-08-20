@@ -8,19 +8,21 @@
     <!-- なつくさや・つわものどもが・ゆめのあと-->
       <l>
         <orig><ji k="なつ">夏</ji><ji k="くさ">草</ji>や</orig>
-         <trans lang="en">In the summer grass</trans>
+         <trans lang="en">Fields of summer grass:</trans>
       </l>
       <l>
         <orig><ji k="つわもの">兵</ji>どもが</orig>
-         <trans lang="en">All the soldiers left</trans>
+         <trans lang="en">Multitudes of soldiers here</trans>
       </l>
       <l>
         <orig><ji k="ゆめ">夢</ji>の<ji k="あと">跡</ji></orig>
-         <trans lang="en">Impressions of dreams</trans>
+         <trans lang="en">The remnants of dreams</trans>
       </l>
   </text>
   <commentary>
-      <remarks/>
+      <remarks><p>If what is rendered <quote>remnants</quote> here has the sense of karmic remains, residues
+      or consequences, the question becomes whether the dreams are those that impelled the soldiers forward,
+      or those they left behind. Or both.</p></remarks>
       <vocab>
         <term>兵</term>
         <def>Here pronounced つわもの (kunyomi): jisho.org has <quote>soldier, private, troops, army, warfare, strategy, tactics</quote></def>
