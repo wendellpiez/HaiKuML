@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="haiku-browser.xsl"?>
+<?xml-stylesheet type="text/css" href="../lib/css/HaikuML-editing.css"?>
 <ku>
     <meta>
         <author>Basho Matsuo</author>
